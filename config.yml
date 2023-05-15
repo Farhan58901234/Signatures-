@@ -1,0 +1,2 @@
+settings:
+  signatureName: "&7Signed by: &b%player_name%" # Use %player_name% to get the player's name.

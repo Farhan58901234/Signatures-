@@ -1,0 +1,6 @@
+name: Signatures+
+version: '1.0.1'
+main: dev.marcelooo.msignatures.MSignatures
+api-version: 1.19
+commands:
+  sign:
